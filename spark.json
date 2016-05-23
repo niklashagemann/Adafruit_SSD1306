@@ -1,6 +1,6 @@
 {
   "name": "Adafruit_SSD1306_128x32",
-  "author": "Pkourany w/ changed 32 pixel display height, NHagemann",
+  "author": "Pkourany w/ changed 32 pixel display height",
   "license": "MIT",
   "version": "0.0.10",
   "description": "Adafruit library edited for 32 pixel height OLED screen"
