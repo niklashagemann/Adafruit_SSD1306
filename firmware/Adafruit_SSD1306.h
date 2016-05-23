@@ -1,5 +1,5 @@
-#ifndef _ADAFRUIT_SSD1306_H
-#define _ADAFRUIT_SSD1306_H
+#ifndef _ADAFRUIT_SSD1306_32pixel_H
+#define _ADAFRUIT_SSD1306_32pixel_H
 
 /*********************************************************************
 This is a library for our Monochrome OLEDs based on SSD1306 drivers
